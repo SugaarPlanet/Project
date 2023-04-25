@@ -1,0 +1,70 @@
+﻿
+body{
+    background-color:#03304c;
+}
+.main {
+    width :30%;
+    height:400px auto;
+    background: #6291a1;
+    box-shadow: 10px 10px 50px ;
+    margin-top:80px;
+    padding:10px;
+    border-radius:40px;
+}
+input{
+    margin-left:25px;
+    width:40%;
+    padding:8px;
+    font-size:15px;
+    font-weight:bold;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+/*label{
+    padding:10px;
+    cursor:pointer;
+    font-size:15px;
+    background-color:black;
+    color:white;
+}
+*/
+button{
+    border:double #03304c;
+    width:50px auto;
+    height:40px;
+    font-size:20px;
+    font-family:"Comic Sans MS";
+    background-color:aliceblue;
+    color:#03304c;
+    cursor:pointer;
+}
+
+h1{
+    font-family:"PT Heading";
+    padding:10px;
+    color:#03304c;
+}
+
+pre{
+    color:#03304c; 
+    font-family:PT Heading; 
+    font-size:18px;
+    margin-left:25px;
+}
+span{
+   margin-right:1220px;
+}
+span a{
+    color:#6291a1;
+    text-decoration:none;
+}
+span a:hover{
+    color:white;
+}
+a{
+	text-decoration: none;
+	color: #03304c;
+}
+p{
+	font-size: 80px;
+	color: #6291a1;
+}
